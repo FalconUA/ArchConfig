@@ -1,0 +1,1 @@
+/home/falcon/dwm/config.h
